@@ -2,17 +2,12 @@ com/expense_tracker/model/Transaction.class
 com/expense_tracker/gui/ExpenseManagementDialog.class
 com/expense_tracker/gui/CategoryManagementDialog.class
 com/expense_tracker/util/DatabaseConnection.class
-com/expense_tracker/gui/ExpensetrackerAppGUI.class
 com/expense_tracker/gui/MainFrame.class
 com/expense_tracker/model/Expense.class
 com/expense_tracker/Main.class
 com/expense_tracker/gui/CategoryManagementDialog$1.class
 com/expense_tracker/model/Category.class
 com/expense_tracker/model/Transaction$TransactionType.class
-com/expense_tracker/gui/ExpensetrackerAppGUI$1.class
 com/expense_tracker/gui/ExpenseManagementDialog$2.class
-com/expense_tracker/gui/IntroFrame$catagoryFrame.class
 com/expense_tracker/dao/ExpensetrackerAppDAO.class
 com/expense_tracker/gui/ExpenseManagementDialog$1.class
-com/expense_tracker/gui/IntroFrame$ExpenseFrame.class
-com/expense_tracker/gui/IntroFrame.class
